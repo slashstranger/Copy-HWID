@@ -1,0 +1,24 @@
+C:\Users\Administrator\source\repos\Copy HWID\Copy HWID\bin\Debug\Copy HWID.exe.config
+C:\Users\Administrator\source\repos\Copy HWID\Copy HWID\bin\Debug\Copy HWID.exe
+C:\Users\Administrator\source\repos\Copy HWID\Copy HWID\bin\Debug\Copy HWID.pdb
+C:\Users\Administrator\source\repos\Copy HWID\Copy HWID\obj\Debug\Copy HWID.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Copy HWID\Copy HWID\obj\Debug\Copy HWID.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Copy HWID\Copy HWID\obj\Debug\Copy_HWID.Form1.resources
+C:\Users\Administrator\source\repos\Copy HWID\Copy HWID\obj\Debug\Copy_HWID.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Copy HWID\Copy HWID\obj\Debug\Copy HWID.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Copy HWID\Copy HWID\obj\Debug\Copy HWID.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Copy HWID\Copy HWID\obj\Debug\Copy HWID.exe
+C:\Users\Administrator\source\repos\Copy HWID\Copy HWID\obj\Debug\Copy HWID.pdb
+C:\Users\Administrator\source\repos\Copy HWID\Copy HWID\bin\Debug\Guna.UI.dll
+C:\Users\Administrator\source\repos\Copy HWID\Copy HWID\obj\Debug\Copy HWID.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Copy HWID\Copy HWID\bin\Debug\Copy HWID.exe.config
+C:\Users\Administrator\Desktop\Copy HWID\Copy HWID\bin\Debug\Copy HWID.exe
+C:\Users\Administrator\Desktop\Copy HWID\Copy HWID\bin\Debug\Copy HWID.pdb
+C:\Users\Administrator\Desktop\Copy HWID\Copy HWID\obj\Debug\Copy HWID.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Copy HWID\Copy HWID\obj\Debug\Copy HWID.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Copy HWID\Copy HWID\obj\Debug\Copy_HWID.Form1.resources
+C:\Users\Administrator\Desktop\Copy HWID\Copy HWID\obj\Debug\Copy_HWID.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Copy HWID\Copy HWID\obj\Debug\Copy HWID.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Copy HWID\Copy HWID\obj\Debug\Copy HWID.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Copy HWID\Copy HWID\obj\Debug\Copy HWID.exe
+C:\Users\Administrator\Desktop\Copy HWID\Copy HWID\obj\Debug\Copy HWID.pdb
